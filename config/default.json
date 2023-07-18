@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://vyshnavchikku891:pKuXSAMHE1RwnE97@cluster0.c82g07n.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "chikku123",
+    "githubToken": "YOUR_GITHUB_TOKEN"
+}
